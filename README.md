@@ -22,3 +22,7 @@ This project demonstrates the application of machine learning techniques to clas
 1. Clone the repository:
    ```bash
    git clone https://github.com/yashprakashh/IoMT-2024-Attack-Classification-Explainability.git
+1. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+   
